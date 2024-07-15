@@ -7,4 +7,4 @@ require (
 	github.com/sam-caldwell/size v1.0.0
 )
 
-require github.com/sam-caldwell/errors v1.0.1
+require github.com/sam-caldwell/errors v1.0.6
